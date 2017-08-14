@@ -1,0 +1,14 @@
+{
+  "name": "start_template",
+  "description": "start_template",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

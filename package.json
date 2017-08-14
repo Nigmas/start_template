@@ -1,0 +1,30 @@
+{
+  "name": "start_template",
+  "version": "1.0.0",
+  "devDependencies": {
+    "gulp": "latest",
+    "gulp-sourcemaps": "latest",
+    "gulp-plumber": "latest",
+    "gulp-notify": "latest",
+    "gulp-concat": "latest",
+    "rimraf": "latest",
+    "gulp-cache": "latest",
+    "vinyl-ftp": "latest",
+    "gulp-watch": "latest",
+    "browser-sync": "latest",
+    "gulp-pug": "latest",
+    "gulp-htmlmin": "latest",
+    "gulp-sass": "latest",
+    "gulp-uncss": "latest",
+    "gulp-autoprefixer": "latest",
+    "gulp-combine-mq": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-uglify": "latest",
+    "gulp-imagemin": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "stassamgin",
+  "license": "ISC"
+}
